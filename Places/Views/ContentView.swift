@@ -2,15 +2,14 @@
 //  ContentView.swift
 //  Places
 //
-//  Created by Adrian Nuñez Martíez on 27/7/22.
+//  Created by Adrian Nuñez Martíez on 30/7/22.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        LandmarkList()
     }
 }
 
